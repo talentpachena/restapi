@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+*.sqlite3
+__pycache__/
+.env
+static_assets/
+*.py[cod]
+env/
